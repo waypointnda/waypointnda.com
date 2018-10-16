@@ -1,0 +1,8 @@
+Place ODT in ./files.
+Update in ./index.html.
+Add item to ./versions.xml.
+Add Git tag.
+Push Git tag to GitHub.
+Create GitHub release with files.
+E-mail listed companies.
+Tweet.
