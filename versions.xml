@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>The Canting Tribe NDA Versions Feed</title>
+    <description>new versions of The Canting Tribe NDA</description>
+    <link>https://nda.cantingtribe.com</link>
+    <atom:link href="https://nda.cantingtribe.com/versions.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Canting Tribe NDA 1.0.0</title>
+      <description>Version 1.0.0</description>
+      <pubDate>Thu, 04 Oct 2018 21:59:36 -0700</pubDate>
+      <link>https://nda.cantingtribe.com/files/canting-tribe-nda-1.0.0.odt</link>
+      <guid isPermaLink="true">https://nda.cantingtribe.com/files/canting-tribe-nda-1.0.0.odt</guid>
+    </item>
+  </channel>
+</rss>
