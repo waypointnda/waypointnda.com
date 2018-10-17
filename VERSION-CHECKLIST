@@ -1,4 +1,4 @@
-Place ODT in ./files.
+Copy prior RTF in ./files.
 Update in ./index.html.
 Add item to ./versions.xml.
 Add Git tag.
