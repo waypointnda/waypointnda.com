@@ -49,6 +49,11 @@ section {
 }
 
 h2 {
+  font-size: 150%;
+  margin-top: 2rem;
+}
+
+h3 {
   font-size: 100%;
   margin-top: 2rem;
 }
