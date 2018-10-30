@@ -1,6 +1,7 @@
 FILES=files
 FORMATS=docx rtf pdf odt
 DOCX=$(wildcard $(FILES)/*.rtf)
+LINT=node_modules/html5-lint
 
 all: $(foreach version,$(DOCX),$(addprefix $(version:.rtf=).,$(FORMATS)))
 
@@ -12,3 +13,11 @@ all: $(foreach version,$(DOCX),$(addprefix $(version:.rtf=).,$(FORMATS)))
 
 %.docx: %.odt
 	unoconv -f docx $<
+
+.PHONY: lint
+
+$(LINT):
+	npm install
+
+lint: | $(LINT)
+	./lint

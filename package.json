@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "devDependencies": {
+    "html5-lint": "^0.3.0"
+  }
+}
