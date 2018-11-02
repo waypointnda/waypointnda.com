@@ -17,7 +17,7 @@ body > header, body > main, body > footer {
 }
 
 body > header {
-  margin-top: 2.5rem;
+  margin-top: 1rem;
   margin-bottom: 1.5rem;
   text-align: center;
 }
@@ -85,7 +85,7 @@ header h1 {
 }
 
 .logo {
-  max-width: 8rem;
+  max-width: 12rem;
 }
 
 li {
