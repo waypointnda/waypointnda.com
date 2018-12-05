@@ -1,2 +1,2 @@
 #!/bin/sh
-rsync  --archive --compress --force --delete --progress --exclude '.git' --exclude publish . rxnda@rxnda.com:/var/www/nda.cantingtribe.com/
+rsync  --archive --compress --force --delete --progress --exclude '.git' --exclude publish . nda.cantingtribe.com:/var/www/nda.cantingtribe.com/
