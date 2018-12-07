@@ -6,9 +6,13 @@ html {
   text-align: justify;
 }
 
-body > header, body > main, body > footer {
+body > header, body > main {
   margin: 0 auto;
   max-width: 30rem;
+}
+
+body > main {
+  padding-bottom: 5rem;
 }
 
 .page {
@@ -30,13 +34,6 @@ h1 {
 .catchphrase {
   font-style: italic;
   margin-top: 0;
-}
-
-body > footer {
-  font-size: 75%;
-  margin-bottom: 2rem;
-  margin-top: 5rem;
-  text-align: right;
 }
 
 .conspicuous {
