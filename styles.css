@@ -31,9 +31,13 @@ h1 {
   margin-bottom: 0;
 }
 
-.catchphrase {
+.catchphrase, .award {
   font-style: italic;
   margin-top: 0;
+}
+
+.catchphrase {
+  margin-bottom: 0.5rem;
 }
 
 .conspicuous {
