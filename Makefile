@@ -1,6 +1,7 @@
 FILES=files
 FORMATS=docx rtf pdf odt md
 RTF=$(wildcard $(FILES)/*.rtf)
+LATEST=$(lastword $(sort $(RTF)))
 LINT=node_modules/html5-lint
 
 all: $(foreach version,$(RTF),$(addprefix $(version:.rtf=).,$(FORMATS))) $(FILES)/latest.md
@@ -19,8 +20,8 @@ all: $(foreach version,$(RTF),$(addprefix $(version:.rtf=).,$(FORMATS))) $(FILES
 
 .INTERMEDIATE: $(FILES)/latest.rtf
 
-$(FILES)/latest.rtf:
-	cp $(lastword $(sort $(RTF))) $@
+$(FILES)/latest.rtf: $(LATEST)
+	cp $< $@
 
 .PHONY: lint
 
