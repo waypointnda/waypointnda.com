@@ -1,5 +1,5 @@
 FILES=files
-FORMATS=docx rtf pdf odt
+FORMATS=docx rtf pdf odt md
 DOCX=$(wildcard $(FILES)/*.rtf)
 LINT=node_modules/html5-lint
 
@@ -13,6 +13,9 @@ all: $(foreach version,$(DOCX),$(addprefix $(version:.rtf=).,$(FORMATS)))
 
 %.docx: %.odt
 	unoconv -f docx $<
+
+%.md: %.odt
+	pandoc -t commonmark -o $@ $<
 
 .PHONY: lint
 
