@@ -87,7 +87,8 @@ header h1 {
 }
 
 .logo {
-  max-width: 12rem;
+  max-width: 10rem;
+  padding: 2rem 0 0.75rem 0;
 }
 
 li {
