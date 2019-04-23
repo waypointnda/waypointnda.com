@@ -2,8 +2,8 @@
 
 Apart from the purpose and governing law state that I have filled in
 below, I certify that the following proposed terms are exactly the same
-as **The Canting Tribe NDA version 2.0.0-draft1 **published at
-<span id="anchor"></span>https://nda.cantingtribe.com.  
+as **The Waypoint NDA version 1.0.0 **published at
+<span id="anchor"></span>https://waypointnda.com.  
 
   
 Signature:
@@ -16,14 +16,13 @@ E-Mail:
 
 > 
 
-> **Purpose**:\[State the purpose for sharing confidential
-> information.\]
+**Purpose**:\[State the purpose for sharing confidential information.\]
 
-> **State Law**:\[Name the state whose law will govern the agreement.\]
+**State Law**:\[Name the state whose law will govern the agreement.\]
 
-**The Canting Tribe NDA**
+**The Waypoint NDA**
 
-**Version 2.0.0-draft1**
+**Version 1.0.0**
 
 The parties agree:
 

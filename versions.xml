@@ -1,65 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>The Canting Tribe NDA Versions Feed</title>
-    <description>new versions of The Canting Tribe NDA</description>
-    <link>https://nda.cantingtribe.com</link>
-    <atom:link href="https://nda.cantingtribe.com/versions.xml" rel="self" type="application/rss+xml"/>
+    <title>The Waypoin NDA Versions Feed</title>
+    <description>new versions of The Waypoint NDA</description>
+    <link>https://waypointnda.com</link>
+    <atom:link href="https://waypointnda.com/versions.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>The Canting Tribe NDA 1.0.0</title>
+      <title>The Waypoint NDA 1.0.0</title>
       <description>Version 1.0.0</description>
-      <pubDate>Thu, 04 Oct 2018 21:59:36 -0700</pubDate>
-      <link>https://nda.cantingtribe.com/files/canting-tribe-nda-1.0.0.odt</link>
-      <guid isPermaLink="true">https://nda.cantingtribe.com/files/canting-tribe-nda-1.0.0.odt</guid>
-    </item>
-    <item>
-      <title>The Canting Tribe NDA 1.0.1</title>
-      <description>Version 1.0.1</description>
-      <pubDate>Thu, 10 Oct 2018 21:27:00 -0700</pubDate>
-      <link>https://nda.cantingtribe.com/files/canting-tribe-nda-1.0.1.docx</link>
-      <guid isPermaLink="true">https://nda.cantingtribe.com/files/canting-tribe-nda-1.0.1.docx</guid>
-    </item>
-    <item>
-      <title>The Canting Tribe NDA 1.1.0</title>
-      <description>Version 1.1.0</description>
-      <pubDate>Thu, 02 Nov 2018 13:53:00 -0700</pubDate>
-      <link>https://nda.cantingtribe.com/files/canting-tribe-nda-1.1.0.docx</link>
-      <guid isPermaLink="true">https://nda.cantingtribe.com/files/canting-tribe-nda-1.1.0.docx</guid>
-    </item>
-    <item>
-      <title>The Canting Tribe NDA 1.1.1</title>
-      <description>Version 1.1.1</description>
-      <pubDate>Mon, 19 Nov 2018 13:10:00 -0700</pubDate>
-      <link>https://nda.cantingtribe.com/files/canting-tribe-nda-1.1.1.docx</link>
-      <guid isPermaLink="true">https://nda.cantingtribe.com/files/canting-tribe-nda-1.1.1.docx</guid>
-    </item>
-    <item>
-      <title>The Canting Tribe NDA 1.2.0</title>
-      <description>Version 1.2.0</description>
-      <pubDate>Mon, 19 Nov 2018 15:56:00 -0700</pubDate>
-      <link>https://nda.cantingtribe.com/files/canting-tribe-nda-1.2.0.docx</link>
-      <guid isPermaLink="true">https://nda.cantingtribe.com/files/canting-tribe-nda-1.2.0.docx</guid>
-    </item>
-    <item>
-      <title>The Canting Tribe NDA 1.2.1</title>
-      <description>Version 1.2.1</description>
-      <pubDate>Thu, 7 Dec 2018 00:03:00 -0700</pubDate>
-      <link>https://nda.cantingtribe.com/files/canting-tribe-nda-1.2.1.docx</link>
-      <guid isPermaLink="true">https://nda.cantingtribe.com/files/canting-tribe-nda-1.2.1.docx</guid>
-    </item>
-    <item>
-      <title>The Canting Tribe NDA 1.2.2</title>
-      <description>Version 1.2.2</description>
-      <pubDate>Wed, 16 Jan 2019 15:30:00 -0700</pubDate>
-      <link>https://nda.cantingtribe.com/files/canting-tribe-nda-1.2.2.docx</link>
-      <guid isPermaLink="true">https://nda.cantingtribe.com/files/canting-tribe-nda-1.2.2.docx</guid>
-    </item>
-    <item>
-      <title>The Canting Tribe NDA 2.0.0</title>
-      <description>Version 2.0.0</description>
-      <pubDate>Wed, 13 Feb 2019 11:10:00 -0700</pubDate>
-      <link>https://nda.cantingtribe.com/files/canting-tribe-nda-2.0.0.docx</link>
-      <guid isPermaLink="true">https://nda.cantingtribe.com/files/canting-tribe-nda-2.0.0.docx</guid>
+      <pubDate>Tue, 23 Apr 2019 11:24:00 -0700</pubDate>
+      <link>https://waypointnda.com/files/waypoint-1.0.0.docx</link>
+      <guid isPermaLink="true">https://waypointnda.com/files/waypoint-nda-1.0.0.docx</guid>
     </item>
   </channel>
 </rss>

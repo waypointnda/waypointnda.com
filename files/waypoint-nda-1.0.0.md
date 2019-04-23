@@ -2,49 +2,44 @@
 
 Apart from the purpose and governing law state that I have filled in
 below, I certify that the following proposed terms are exactly the same
-as **The Canting Tribe NDA version 1.1.1 **published at
-<span id="anchor"></span>https://nda.cantingtribe.com.
+as **The Waypoint NDA version 1.0.0 **published at
+<span id="anchor"></span>https://waypointnda.com.  
 
->   
->   
-> By:  
+  
+Signature:
 
-> Name:  
+Name:
 
-> Date:  
+Date:
 
-> E-Mail:
+E-Mail:
 
 > 
 
-**Purpose**:
+**Purpose**:\[State the purpose for sharing confidential information.\]
 
-\[State the purpose for sharing confidential information.\]
+**State Law**:\[Name the state whose law will govern the agreement.\]
 
-**State Law**:
+**The Waypoint NDA**
 
-\[Name the state whose law will govern the agreement.\]
-
-**The Canting Tribe NDA**
-
-**Version 1.1.1**
+**Version 1.0.0**
 
 The parties agree:
 
-1\.**Mutual Nondisclosure**. "**Disclosing Party**" describes each party
+1\.**Mutual Nondisclosure**. “**Disclosing Party**” describes each party
 with respect to Confidential Information it discloses to the other
-party. "**Receiving Party**" describes each party with respect to
+party. “**Receiving Party**” describes each party with respect to
 Confidential Information it receives from the other party.
 
 2\.**Purpose**. The parties anticipate disclosure of Confidential
-Information for the purpose on the attached certificate (the
-"**Purpose**").
+Information for the purpose on the accompanying standard form
+certificate (the “**Purpose**”).
 
-3\.**Confidential Information**. 
+3\.**Confidential Information**.
 
 > (a)**Categories of Confidential Information**. Subject to *Section
-> 3(b)* (Exclusions from Confidential Information), "**Confidential
-> Information**" means the following kinds of information:
+> 3(b)* (Exclusions from Confidential Information), “**Confidential
+> Information**” means the following kinds of information:
 
 (i)information disclosed by Disclosing Party during the term of this
 agreement that is related to the business of Disclosing Party;
@@ -57,7 +52,7 @@ agreement that is related to the business of Disclosing Party;
 
 (v)other information derived from these kinds of information.
 
-> (b)**Exclusions from Confidential Information**. 
+> (b)**Exclusions from Confidential Information**.
 
 (i)**Public Information**. Information that is now public is not
 Confidential Information. Confidential Information that becomes public,
@@ -75,7 +70,7 @@ Information of Disclosing Party. Receiving Party shall bear the burden
 of proving independent development using contemporaneous documentary
 evidence.
 
-4\.**Confidentiality Obligations**. 
+4\.**Confidentiality Obligations**.
 
 > (a)**Nondisclosure**. Except as described in *Section 4(b)* (Permitted
 > Disclosure), Receiving Party shall not disclose Confidential
@@ -86,7 +81,7 @@ evidence.
 
 (i)if Receiving Party is a legal entity, employees, independent
 contractors, officers, directors, and agents of Receiving Party
-("**Personnel**") who:
+(“**Personnel**”) who:
 
 > (A)have a need to know the Confidential Information to advance the
 > Purpose; and
@@ -98,7 +93,7 @@ contractors, officers, directors, and agents of Receiving Party
 
 (ii)legal and financial advisers providing services to Receiving Party
 under confidentiality obligations imposed either by law or by
-professional rules ("**Advisers**").
+professional rules (“**Advisers**”).
 
 > (c)**Limited Use**. Receiving Party shall use Confidential Information
 > only to advance the Purpose.
@@ -150,7 +145,7 @@ Notice of Required Disclosure).
 > disclosed or used in breach of this agreement or other confidentiality
 > agreements with Disclosing Party.
 
-> (j)**Return and Destruction**. 
+> (j)**Return and Destruction**.
 
 (i)Subject to *Section 4(k)* (Records Policy), when this agreement
 terminates, Receiving Party shall promptly:
@@ -171,7 +166,7 @@ terminates, Receiving Party shall promptly:
 > (l)**Comply with Export Controls**. Both parties shall comply with
 > export and reexport laws with respect to Confidential Information.
 
-> (m)**Compliance and Oversight**. 
+> (m)**Compliance and Oversight**.
 
 (i)Receiving Party shall ensure that its Advisers abide by the
 confidentiality obligations of Receiving Party under this agreement. If
@@ -185,7 +180,7 @@ breach of this agreement by Receiving Party itself.
 Disclosing Party copies of confidentiality agreements with Personnel who
 receive Confidential Information on Disclosing Party request.
 
-5\.**Clarifications**. 
+5\.**Clarifications**.
 
 > (a)**No Obligation to Disclose**. No terms of this agreement obligate
 > Disclosing Party to disclose any Confidential Information.
@@ -210,7 +205,7 @@ receive Confidential Information on Disclosing Party request.
 (iii)assigning and reassigning Personnel and Advisers in its sole
 discretion.
 
-6\.**18 U.S.C. 1833(b) Notice**. 
+6\.**18 U.S.C. 1833(b) Notice**.
 
 > (a)An individual shall not be held criminally or civilly liable under
 > any Federal or State trade secret law for the disclosure of a trade
@@ -236,46 +231,41 @@ proceeding, if such filing is made under seal.
 
 (ii)does not disclose the trade secret, except pursuant to court order.
 
-7\.**Equitable Remedies**. Breach of *Section 4* (Confidentiality
-Obligations) would cause irreparable harm that money damages could not
-adequately compensate. Either party will be entitled to seek
-injunctions, restraining orders, and other equitable remedies for
-breaches of *Section 4* (Confidentiality Obligations), without posting
-bond or security, and without proving actual damages.
+7\.**Term**.
 
-8\.**Term**. 
-
-> (a)**Expiration**. Unless extended by cosigned, written agreement of
-> the parties, this agreement will terminate automatically on the first
-> anniversary of the date of this agreement.
+> (a)**Expiration**. This agreement will terminate automatically on the
+> first anniversary of the date of this agreement.
 
 > (b)**Termination by Notice**. Either party may terminate this
 > agreement early by thirty calendar days' prior written notice to the
 > other party.
 
 > (c)**Survival**. Obligations under *Section 4* (Confidentiality
-> Obligations) survive the term of this agreement for Confidential
-> Information disclosed during the term for five calendar years from the
-> date of termination.
+> Obligations) for Confidential Information disclosed during the term
+> survive the term of this agreement as follows: 
 
-9\.**General Contract Terms**. 
+(i)Obligations for Confidential Information that Receiving Party knew or
+reasonably should have known constituted a trade secret survive as long
+as the Confidential Information remains a trade secret.
+
+(ii)Obligations for other Confidential Information survive for five
+calendar years from the date of termination.
+
+8\.**General Contract Terms**.
 
 > (a)**No Assignment or Delegation**. Neither party may assign any right
 > or delegate any obligation under this agreement without the prior,
 > signed, written consent of the other party. Any attempt to assign or
 > delegate without consent will have no legal effect.
 
-> (b)**Dispute Resolution**. The law of the state on the attached
-> certificate will govern all aspects of this agreement. The parties
-> shall bring legal proceedings related to this agreement only in state
-> or federal courts located in that state. The parties consent to the
-> exclusive jurisdiction of those courts and waive any objection that
-> legal proceedings brought there are brought in an inconvenient forum.
-> The parties may enforce judgments of those courts in any appropriate
-> forum. A party shall pay attorney fees and costs that the other party
-> incurs in any legal proceeding related to this agreement that results
-> in final judgments on the merits, in the other party's favor, on all
-> the other party's claims.
+> (b)**Dispute Resolution**. The law of the state on the accompanying
+> standard form certificate will govern all aspects of this agreement.
+> The parties shall bring legal proceedings related to this agreement
+> only in state or federal courts located in that state. The parties
+> consent to the exclusive jurisdiction of those courts and waive any
+> objection that legal proceedings brought there are brought in an
+> inconvenient forum. The parties may enforce judgments of those courts
+> in any appropriate forum.
 
 > (c)**Legal Relationship**. The parties to this agreement remain
 > independent contractors. This agreement does not create any
@@ -303,7 +293,7 @@ address the other party provided with their signature.
 > (f)**Severability**. If a court decides that any part of this
 > agreement is invalid or unenforceable for any reason but enforcing the
 > rest of the agreement would serve the purpose of protecting
-> Confidential Information to advance the Purpose, then rest of this
+> Confidential Information to advance the Purpose, then the rest of this
 > agreement will remain in force.
 
 > (g)**No Third-Party Enforcement**. Only the parties may enforce rights
@@ -325,17 +315,17 @@ their signatures.
 
 **First Party**
 
-Legal Name:\[Write the legal name of the party proposing the NDA, like
-“Super Software, Inc.” or “John A. Smith”.\]
+> Legal Name:\[Write the legal name of the party proposing the NDA, like
+> “Super Software, Inc.” or “John A. Smith”.\]
 
-Legal Type:\[Write the company’s jurisdiction and legal form, like
-“Delaware corporation” or “New York resident” for an individual.\]
+> Legal Type:\[Write the company’s jurisdiction and legal form, like
+> “Delaware corporation” or “New York resident” for an individual.\]
 
 Signature:
 
 Name:
 
-Title:\[Leave blank if the party is an individual.\]
+> Title:\[Leave blank if the party is an individual.\]
 
 Date:
 
@@ -343,18 +333,18 @@ E-Mail:
 
 **Second Party**
 
-Legal Name:\[Write the legal name of the party receiving the NDA, like
-“Quick Welding LLC” or “Jane B. Doe”.\]
+> Legal Name:\[Write the legal name of the party receiving the NDA, like
+> “Quick Welding LLC” or “Jane B. Doe”.\]
 
-Legal Type:\[Write the company’s jurisdiction and legal form, like
-“Delaware corporation” or “Texas resident” for an individual.\]
+> Legal Type:\[Write the company’s jurisdiction and legal form, like
+> “Delaware corporation” or “Texas resident” for an individual.\]
 
 Signature:
 
 Name:
 
-<span id="anchor-2"></span>Title:\[Leave blank if the party is an
-individual.\]
+> <span id="anchor-2"></span>Title:\[Leave blank if the party is an
+> individual.\]
 
 Date:
 
