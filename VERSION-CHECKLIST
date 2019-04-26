@@ -1,6 +1,7 @@
 Copy prior RTF in ./files.
 Make DocuSign template.
 Update in ./index.html.
+Update Google Doc link in ./index.html.
 Add item to ./versions.xml.
 Add Git tag.
 Push Git tag to GitHub.
