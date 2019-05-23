@@ -204,7 +204,8 @@ receive Confidential Information on Disclosing Party request.
 (iii)assigning and reassigning Personnel and Advisers in its sole
 discretion.
 
-6\.**18 U.S.C. 1833(b) Notice**.
+6\.**18 U.S.C. 1833(b) Notice**. If this agreement is governed by United
+States law:
 
 > (a)An individual shall not be held criminally or civilly liable under
 > any Federal or State trade secret law for the disclosure of a trade
