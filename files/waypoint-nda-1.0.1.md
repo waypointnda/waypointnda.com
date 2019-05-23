@@ -1,8 +1,8 @@
 **Standard Form Certificate**
 
-Apart from the purpose and governing law that I have filled in below, I
-certify that the following proposed terms are exactly the same as **The
-Waypoint NDA version 1.0.0 **published at
+Apart from the purpose, governing law, and any forum for disputes that I
+have filled in below, I certify that the following proposed terms are
+exactly the same as **The Waypoint NDA version 1.0.0 **published at
 <span id="anchor"></span>https://waypointnda.com.
 
 Signature:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -11,9 +11,9 @@ Name:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-E-Mail:<span id="anchor-1"></span>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+E-Mail:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-> **Purpose**:<span id="anchor-2"></span>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+> **Purpose**:<span id="anchor-1"></span>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
@@ -21,11 +21,17 @@ E-Mail:<span id="anchor-1"></span>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 > \[State the purpose for sharing confidential information.\]
 
-> **Governing
+> <span id="anchor-2"></span>**Governing
 > Law**:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 > \[Name the state, country, or other jurisdiction whose law will govern
 > the agreement.\]
+
+> **Forum for
+> Disputes**:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+> \[Optional. Name the city, district, or country where any disputes
+> about this agreement will happen.\]
 
 **The Waypoint NDA**
 
@@ -265,14 +271,17 @@ calendar years from the date of termination.
 > signed, written consent of the other party. Any attempt to assign or
 > delegate without consent will have no legal effect.
 
-> (b)**Dispute Resolution**. The law of the jurisdiction on the
-> accompanying standard form certificate will govern all aspects of this
-> agreement. The parties shall bring legal proceedings related to this
-> agreement only in state or federal courts located in that state. The
-> parties consent to the exclusive jurisdiction of those courts and
-> waive any objection that legal proceedings brought there are brought
-> in an inconvenient forum. The parties may enforce judgments of those
-> courts in any appropriate forum.
+> (b)**Dispute Resolution**. The law of the governing law jurisdiction
+> on the accompanying standard form certificate will govern all aspects
+> of this agreement. The parties shall bring legal proceedings related
+> to this agreement only in the national and national-subdivision courts
+> located in the forum for disputes on the accompanying standard form
+> certificate, or if none is specified, within the jurisdiction whose
+> law governs this agreement. The parties consent to the exclusive
+> jurisdiction of those courts and waive any objection that legal
+> proceedings brought there are brought in an inconvenient forum. The
+> parties may enforce judgments of those courts in any appropriate
+> forum.
 
 > (c)**Legal Relationship**. The parties to this agreement remain
 > independent contractors. This agreement does not create any
