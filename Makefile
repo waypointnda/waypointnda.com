@@ -9,7 +9,7 @@ all: $(foreach version,$(RTF),$(addprefix $(version:.rtf=).,$(FORMATS))) $(FILES
 %.odt: %.rtf
 	unoconv -f odt $<
 
-%.pdf: %.odt
+%.pdf: %.rtf
 	unoconv -f pdf $<
 
 %.docx: %.odt
