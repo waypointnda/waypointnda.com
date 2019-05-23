@@ -3,22 +3,28 @@
 Apart from the purpose and governing law state that I have filled in
 below, I certify that the following proposed terms are exactly the same
 as **The Waypoint NDA version 1.0.0 **published at
-<span id="anchor"></span>https://waypointnda.com.  
+<span id="anchor"></span>https://waypointnda.com.
 
-  
-Signature:
+Signature:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Name:
+Name:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Date:
+Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-E-Mail:
+E-Mail:<span id="anchor-1"></span>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-> 
+> **Purpose**:<span id="anchor-2"></span>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+> \[State the purpose for sharing confidential information.\]
 
-**Purpose**:\[State the purpose for sharing confidential information.\]
-
-**State Law**:\[Name the state whose law will govern the agreement.\]
+> **State
+> Law**:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+> \[Name the state whose law will govern the agreement.\]
 
 **The Waypoint NDA**
 
@@ -124,7 +130,7 @@ professional rules (“**Advisers**”).
 > when Receiving Party reasonably expects that the law may require
 > disclosure of Confidential Information:
 
-(i)<span id="anchor-1"></span>**Give Notice of Required Disclosure**. If
+(i)<span id="anchor-3"></span>**Give Notice of Required Disclosure**. If
 legally permitted, Receiving Party shall promptly notify Disclosing
 Party of the nature of the requirement and the Confidential Information
 affected. If practical, Receiving Party shall give notice quickly enough
@@ -278,7 +284,7 @@ calendar years from the date of termination.
 > the specific terms waived and in what particular instance, signed by
 > the party waiving.
 
-> <span id="anchor-2"></span>(e)**Notices**. The parties shall send
+> <span id="anchor-4"></span>(e)**Notices**. The parties shall send
 > every notice, demand, consent, request, or other communication
 > required or allowed by this agreement:
 
@@ -311,42 +317,55 @@ address the other party provided with their signature.
 
 \[Signature page follows.\]
 
-The parties are signing this nondisclosure agreement on the dates by
-their signatures.
+<span id="anchor-5"></span>The parties are signing this nondisclosure
+agreement on the dates by their signatures.
 
 **First Party**
 
-> Legal Name:\[Write the legal name of the party proposing the NDA, like
-> “Super Software, Inc.” or “John A. Smith”.\]
+> Legal
+> Name:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+> \[Write the legal name of the party proposing the NDA, like “Super
+> Software, Inc.” or “John A. Smith”.
 
-> Legal Type:\[Write the company’s jurisdiction and legal form, like
-> “Delaware corporation” or “New York resident” for an individual.\]
+> Legal
+> Type:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+> \[Write the company’s jurisdiction and legal form, like “Delaware
+> corporation” or “New York resident” for an individual.\]
 
-Signature:
+> Signature:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Name:
+> Name:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-> Title:\[Leave blank if the party is an individual.\]
+> Title:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+> \[Leave blank if the party is an
+> individual.\]
 
-Date:
+> Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-E-Mail:
+> E-Mail:**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+The parties are signing this nondisclosure agreement on the dates by
+their signatures.
 
 **Second Party**
 
-> Legal Name:\[Write the legal name of the party receiving the NDA, like
-> “Quick Welding LLC” or “Jane B. Doe”.\]
+> Legal
+> Name:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+> \[Write the legal name of the party receiving the NDA, like “Quick
+> Welding LLC” or “Jane B. Doe”.\]
 
-> Legal Type:\[Write the company’s jurisdiction and legal form, like
-> “Delaware corporation” or “Texas resident” for an individual.\]
+> Legal
+> Type:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+> \[Write the company’s jurisdiction and legal form, like “Delaware
+> corporation” or “Texas resident” for an individual.\]
 
-Signature:
+> Signature:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Name:
+> Name:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-> <span id="anchor-3"></span>Title:\[Leave blank if the party is an
-> individual.\]
+> Title:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+> \[Leave blank if the party is an individual.\]
 
-Date:
+> Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-E-Mail:
+> E-Mail:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
