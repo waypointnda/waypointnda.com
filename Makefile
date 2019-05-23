@@ -6,10 +6,10 @@ LINT=node_modules/html5-lint
 
 all: $(foreach version,$(RTF),$(addprefix $(version:.rtf=).,$(FORMATS))) $(FILES)/latest.md
 
-%.odt: %.rtf
-	unoconv -f odt $<
+%.rtf: %.odt
+	unoconv -f rtf $<
 
-%.pdf: %.rtf
+%.pdf: %.odt
 	unoconv -f pdf $<
 
 %.docx: %.odt
