@@ -39,7 +39,7 @@ certificate (the “**Purpose**”).
 
 > (a)**Categories of Confidential Information**. Subject to *Section
 > 3(b)* (Exclusions from Confidential Information), “**Confidential
-> Information**” means the following kinds of information:
+> Information**” means:
 
 (i)information disclosed by Disclosing Party during the term of this
 agreement that is related to the business of Disclosing Party;
