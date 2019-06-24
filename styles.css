@@ -98,3 +98,10 @@ header h1 {
 li {
   margin: 1rem 0;
 }
+
+.nextversion {
+  background-color: #d4edda;
+  border-radius: 0.5rem;
+  color: #155724;
+  padding: 0.8rem;
+}
