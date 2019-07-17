@@ -105,3 +105,19 @@ li {
   color: #155724;
   padding: 0.8rem;
 }
+
+.jurisdictions {
+  width: 100%;
+}
+
+.jurisdictions tr th {
+  padding-right: 1rem;
+  text-align: right;
+  width: 50%;
+}
+
+.jurisdictions tr td {
+  padding-right: 1rem;
+  text-align: left;
+  width: 50%;
+}
