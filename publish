@@ -1,0 +1,4 @@
+#!/bin/sh
+set -e
+make
+scp -r ./* waypointnda.com:/var/www/waypointnda.com/
