@@ -1,10 +1,9 @@
 FILES=files
 FORMATS=docx rtf pdf odt md
 ODT=$(wildcard $(FILES)/*.odt)
-LATEST=$(lastword $(sort $(ODT)))
 LINT=node_modules/html5-lint
 
-all: $(foreach version,$(ODT),$(addprefix $(version:.odt=).,$(FORMATS))) $(FILES)/latest.md
+all: $(foreach version,$(ODT),$(addprefix $(version:.odt=).,$(FORMATS)))
 
 %.rtf: %.odt
 	unoconv -f rtf $<
@@ -17,11 +16,6 @@ all: $(foreach version,$(ODT),$(addprefix $(version:.odt=).,$(FORMATS))) $(FILES
 
 %.md: %.odt
 	pandoc -t commonmark -o $@ $<
-
-.INTERMEDIATE: $(FILES)/latest.odt
-
-$(FILES)/latest.odt: $(LATEST)
-	cp $< $@
 
 .PHONY: lint
 
