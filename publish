@@ -1,4 +1,4 @@
 #!/bin/sh
 set -e
 make
-scp -r ./*.html ./*.css ./*.xml ./*.svg ./*.png files waypointnda.com:/var/www/waypointnda.com/
+rsync -a --delete ./*.html ./*.css ./*.xml ./*.svg ./*.png files waypointnda.com:/var/www/waypointnda.com/
