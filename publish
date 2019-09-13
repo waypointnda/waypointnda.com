@@ -1,4 +1,1 @@
-#!/bin/sh
-set -e
-make
 rsync -a --delete ./*.html ./*.css ./*.xml ./*.svg ./*.png files waypointnda.com:/var/www/waypointnda.com/
