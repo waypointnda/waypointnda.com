@@ -121,3 +121,12 @@ li {
   text-align: left;
   width: 50%;
 }
+
+.twoColumn {
+  column-count: 2;
+  padding-left: 1rem;
+}
+
+.twoColumn li {
+  margin-top: 0;
+}
