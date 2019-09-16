@@ -6,14 +6,20 @@ html {
   text-align: justify;
 }
 
-body > header, body > main {
+body > header, body > main, body > footer {
   margin: 0 auto;
   padding: 0 1rem;
   max-width: 30rem;
 }
 
 body > main {
-  padding-bottom: 5rem;
+}
+
+body > footer {
+  border-top: 1px dashed black;
+  padding: 0 0 5rem 0;
+  text-align: right;
+  font-size: 85%;
 }
 
 .page {
