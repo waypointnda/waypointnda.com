@@ -16,6 +16,7 @@ body > main {
 }
 
 body > footer {
+  margin-top: 3.5rem;
   border-top: 1px dashed black;
   padding: 0 0 5rem 0;
   text-align: right;
