@@ -136,3 +136,9 @@ li {
 .twoColumn li {
   margin-top: 0;
 }
+
+.flag {
+  margin: 0 1rem;
+  width: 2rem;
+  user-select: none;
+}
