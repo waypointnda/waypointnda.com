@@ -16,6 +16,7 @@ body > main {
 }
 
 body > footer {
+  margin-top: 3.5rem;
   border-top: 1px dashed black;
   padding: 0 0 5rem 0;
   text-align: right;
@@ -135,4 +136,10 @@ li {
 
 .twoColumn li {
   margin-top: 0;
+}
+
+.flag {
+  margin: 0 1rem;
+  width: 2rem;
+  user-select: none;
 }
