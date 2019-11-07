@@ -139,7 +139,7 @@ li {
 }
 
 .flag {
-  margin: 0 1rem;
+  margin: 0 0.5rem;
   width: 2rem;
   user-select: none;
 }
