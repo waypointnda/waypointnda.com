@@ -80,11 +80,11 @@ The following obligations apply when the law requires disclosure of _Confidentia
 
 ### Give Notice of Required Disclosure
 
-If legally permitted, _Receiving Party_ shall promptly notify _Disclosing Party_ of the nature of the requirement and the _Confidential Information_ affected.  If practical, _Receiving Party_ shall give notice quickly enough to afford _Disclosing Party_ practical chance to start a proceeding to protect the confidentiality of the _Confidential Information_.  On _Disclosing Party_ request, _Receiving Party_ shall cooperate with _Disclosing Party_ in any such proceeding by providing reasonable assistance.
+If legally permitted, _Receiving Party_ shall promptly notify _Disclosing Party_ of the nature of the requirement and the _Confidential Information_ affected.  If practical, _Receiving Party_ shall give notice quickly enough to afford _Disclosing Party_ practical chance to start a proceeding to protect the confidentiality of the _Confidential Information_.
 
-###  Reimburse Expenses of Cooperation
+### Cooperate and Assist
 
-_Disclosing Party_ shall reimburse _Receiving Party_'s reasonable out-of-pocket expenses of cooperating in any proceeding described in [Give Notice of Required Disclosure](#give-notice-of-required-disclosure).
+On _Disclosing Party_ request, _Receiving Party_ shall cooperate with _Disclosing Party_ and provide reasonable assistance to _Disclosing Party_ in any proceeding to protect the confidentiality of _Confidential Information_.  _Disclosing Party_ shall reimburse _Receiving Party_'s reasonable out-of-pocket expenses of that cooperation and assistance.
 
 ## Give Notice of Leaks
 
