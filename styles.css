@@ -3,7 +3,7 @@ html {
   font-size: 125%;
   hyphens: auto;
   line-height: 1.4;
-  text-align: justify;
+  text-align: left;
 }
 
 body > header, body > main, body > footer {
