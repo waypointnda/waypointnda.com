@@ -8,19 +8,16 @@ html {
 
 body > header, body > main, body > footer {
   margin: 0 auto;
-  padding: 0 1rem;
   max-width: 30rem;
-}
-
-body > main {
+  padding: 0 1rem;
 }
 
 body > footer {
-  margin-top: 3.5rem;
   border-top: 1px dashed black;
+  font-size: 85%;
+  margin-top: 3.5rem;
   padding: 0 0 5rem 0;
   text-align: right;
-  font-size: 85%;
 }
 
 .page {
@@ -29,8 +26,8 @@ body > footer {
 }
 
 body > header {
-  margin-top: 2rem;
   margin-bottom: 1.5rem;
+  margin-top: 2rem;
   text-align: center;
 }
 
@@ -39,8 +36,8 @@ h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  margin-top: 0;
   margin-bottom: 0;
+  margin-top: 0;
 }
 
 .catchphrase, .award {
@@ -85,15 +82,15 @@ a:hover {
 }
 
 h1 small {
-  font-size: 50%;
   display: block;
+  font-size: 50%;
 }
 
-a.special[href]:before {
+.special[href]:before {
   content: '☞';
 }
 
-header h1 {
+h1 {
   font-size: 250%;
 }
 
@@ -140,6 +137,6 @@ li {
 
 .flag {
   margin: 0 0.5rem;
-  width: 2rem;
   user-select: none;
+  width: 2rem;
 }
