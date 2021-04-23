@@ -139,3 +139,51 @@ li {
   user-select: none;
   width: 2rem;
 }
+
+th {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.downloads {
+  text-align: center;
+}
+
+a.button[href] {
+  background-color: #28a745;
+  border-color: #28a745;
+  border-radius: 1ex;
+  border: 1px solid green;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  margin: 0 0.5rem;
+  padding: 1ex 1.5ex;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+}
+
+a.button:hover {
+  background-color: #218838;
+  border-color: #218838;
+  color: white;
+}
+
+table {
+  margin: 0 auto;
+  text-align: center;
+}
+
+td, th {
+  vertical-align: top;
+}
+
+th {
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+tbody tr:first-child {
+  border-top: 1px solid black;
+}
