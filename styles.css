@@ -187,3 +187,15 @@ th {
 tbody tr:first-child {
   border-top: 1px solid black;
 }
+
+aside {
+  background: #fcf8e3;
+  border-radius: 0.5rem;
+  border: 1px solid orange;
+  box-sizing: border-box;
+  color: #333;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  text-align: center;
+}
