@@ -1,3 +1,7 @@
+# One-Way Nondisclosure
+
+**Disclosing Party** may disclose _Confidential Information_ to **Receiving Party**.  This agreement does not cover information disclosed by _Receiving Party_.
+
 # Purpose
 
 The parties anticipate that _Disclosing Party_ will disclose _Confidential Information_ to _Receiving Party_ for the purpose on the accompanying standard form certificate (the **Purpose**).
