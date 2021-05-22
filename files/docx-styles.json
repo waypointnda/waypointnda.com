@@ -1,0 +1,13 @@
+{
+  "alignment": "left",
+  "heading": {
+    "italic": false,
+    "bold": true
+  },
+  "reference": {
+    "italic": true
+  },
+  "referenceHeading": {
+    "italic": false
+  }
+}

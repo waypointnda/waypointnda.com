@@ -1,6 +1,3 @@
-# One-Way Nondisclosure
-
-
 # Purpose
 
 The parties anticipate that _Disclosing Party_ will disclose _Confidential Information_ to _Receiving Party_ for the purpose on the accompanying standard form certificate (the **Purpose**).

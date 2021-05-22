@@ -21,3 +21,10 @@ $(LINT):
 
 lint: | $(LINT)
 	./lint
+
+
+docker:
+	docker build -t waypointnda .
+	docker run --name waypointnda waypointnda
+	docker cp waypointnda:/workdir/files .
+	docker rm waypointnda
