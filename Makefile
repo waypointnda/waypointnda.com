@@ -3,8 +3,11 @@ json=node_modules/.bin/json
 pages=$(wildcard *.mustache.html)
 partials=$(wildcard partials/*)
 targets=$(pages:.mustache.html=.html) versions.xml logo.png latest
+docxs=$(wildcard files/*.docx)
+formats=docx pdf odt rtf
+conversions=$(foreach format,$(formats),$(docxs:.docx=.$(format)))
 
-all: $(targets)
+all: $(targets) $(conversions)
 
 %.html: view.json %.mustache.html tidy.config $(partials) | $(mustache) site
 	$(mustache) view.json $*.mustache.html $(foreach partial,$(partials),-p $(partial)) | tidy -config tidy.config > $@
@@ -17,6 +20,15 @@ latest: view.json | $(json)
 
 %.png: %.svg
 	convert $< $@
+
+files/%.pdf: files/%.docx
+	soffice --headless --convert-to pdf --outdir files $<
+
+files/%.odt: files/%.docx
+	soffice --headless --convert-to odt --outdir files $<
+
+files/%.rtf: files/%.docx
+	soffice --headless --convert-to rtf --outdir files $<
 
 site:
 	mkdir -p site
