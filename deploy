@@ -2,4 +2,4 @@
 set -e
 make
 site=waypointnda.com
-rsync -a --delete ./*.html ./*.css ./*.xml ./*.png flags files "$site:/var/www/$site/"
+rsync -a --delete ./*.html ./*.css ./*.xml ./*.png flags files latest "$site:/var/www/$site/"

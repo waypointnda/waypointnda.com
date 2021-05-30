@@ -1,7 +1,8 @@
 mustache=node_modules/.bin/mustache
+json=node_modules/.bin/json
 pages=$(wildcard *.mustache.html)
 partials=$(wildcard partials/*)
-targets=$(pages:.mustache.html=.html) versions.xml logo.png
+targets=$(pages:.mustache.html=.html) versions.xml logo.png latest
 
 all: $(targets)
 
@@ -10,6 +11,9 @@ all: $(targets)
 
 versions.xml: view.json versions.mustache.xml | $(mustache) site
 	$(mustache) view.json versions.mustache.xml | xmllint --format - > $@
+
+latest: view.json | $(json)
+	$(json) latest < $< > $@
 
 %.png: %.svg
 	convert $< $@
