@@ -1,1 +1,5 @@
-rsync -a --delete ./*.html ./*.css ./*.xml ./*.svg ./*.png files waypointnda.com:/var/www/waypointnda.com/
+#!/bin/sh
+set -e
+make
+site=waypointnda.com
+rsync -a --delete --files-from=./deployed "$site:/var/www/$site/"

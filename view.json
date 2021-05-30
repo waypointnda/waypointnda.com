@@ -1,0 +1,20 @@
+{
+  "name": "Waypoint NDA",
+  "catchphrase": "the standard business nondisclosure agreement",
+  "domain": "waypointnda.com",
+  "latest": "2.0.0",
+  "trademark": "Waypoint",
+  "email": "kyle@kemitchell.com",
+  "repo": "waypointnda/waypointnda.com",
+  "versions": [
+    {
+      "number": "1.0.0",
+      "date": "Tue, 23 Apr 2019 11:24:00 -0700"
+    },
+    {
+      "number": "2.0.0",
+      "date": "Fri, 6 Sep 2019 10:39:00 -0700"
+    }
+  ],
+  "minimize": "diffs"
+}
