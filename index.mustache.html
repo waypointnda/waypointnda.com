@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang=en>
+  <head>
+    <meta charset=UTF-8>
+
+    <title>{{name}}</title>
+
+    {{>styles.html}}
+
+    <link rel=alternate href=versions.xml type=application/rss+xml>
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{name}}">
+    <meta name="twitter:description" content="{{catchphrase}}">
+    <meta name="twitter:image" content="https://{{domain}}/logo.png">
+    <meta name="twitter:creator" content="@waypointnda">
+
+    <!-- OpenGraph -->
+    <meta property="og:description" content="{{catchphrase}}">
+    <meta property="og:image" content="https://{{domain}}/logo.png">
+    <meta property="og:site_name" content="{{name}}">
+    <meta property="og:title" content="{{name}}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://{{domain}}/">
+  </head>
+
+  <body>
+    {{>header.html}}
+
+    <main>
+      <div class=downloads>
+        <a class=button download="{{name}} {{latest}} (Letter).pdf" href=files/{{latest}}-springboard.pdf>Download for Letter Paper</a>
+        <a class=button download="{{name}} {{latest}} (A4).pdf" href=files/{{latest}}-springboard-a4.pdf>Download for A4 Paper</a>
+      </div>
+      <p>
+        Stop waiting on lawyers to review nondisclosure agreements, or signing terms blind when you know you shouldn't.
+        Review the {{name} once, sign it many times, and spread the word.
+        Help end waste on the same old two-way NDA!
+      </p>
+      <p>
+      The latest version is <span class=version>{{latest}}</span>.
+        You can <a href=2.0.0>read it online</a> and
+        download it <a href=#license>for free</a>.
+        There’s also a long-form version that attaches a full copy of the legal terms, instead of incorporating them by reference:
+      </p>
+      <div class=downloads>
+        <a class=button download="{{name}} {{latest}} Long Form (Letter).pdf" href=files/{{latest}}.pdf>Long Form for Letter Paper</a>
+        <a class=button download="{{name}} {{latest}} Long Form (A4).pdf" href=files/{{latest}}-a4.pdf>Long Form for A4 Paper</a>
+      </div>
+
+      <section id=companies>
+        <h2>Companies</h2>
+        <p>Appearing here isn’t any kind of legal offer or guarantee, but the companies listed here asked to be listed here.</p>
+        <p><a href=https://monax.io>Monax Industries Limited</a> uses version 2.0.0 with potential customers or with prospective vendors, or when talking with possible business partners.</p>
+        <p><a href=https://vivaeve.com>Spectrafem LLC</a>, uses version 2.0.0 with prospective vendors or when talking with possible business partners.</p>
+        <p><a href=https://spade.builders/>Special Projects & Decentralized Engineering Company</a> uses version 1.0.0 with potential customers or with prospective vendors or when talking with possible business partners.</p>
+        <p><a href=https://syntexys.com>Syntexys Inc.</a> uses version 2.0.0 with potential customers, vendors, and business partners.</p>
+        <p><a href=https://discourse.org/>Civilized Discourse Construction Kit</a>, developer of <a href=https://discourse.org>Discourse</a>, uses version 2.0.0 with potential customers, vendors, and business partners.</p>
+        <p><a href=https://renovatebot.com>Key Location Pte Ltd</a>, developer of <a href=https://renovatebot.com>Renovate</a>, uses version 1.0.0 with potential customers or with prospective vendors or when talking with possible business partners.</p>
+        <p><a href=https://argohealth.co/>Argo Health Inc.</a>, uses version 2.0.0 with potential customers, vendors, and business partners.</p>
+      </section>
+
+      <section id=listing>
+        <h2>List Your Company</h2>
+        <p>
+          To add your company to the list, e-mail
+          <a href=mailto:companies@waypointnda.com>companies@waypointnda.com</a>
+          with the name of your company and a few words on how you use the form.
+        </p>
+        <p>We will use basic caution to verify that you are who you say you are, and give you a link you can use to point to your listing on this page.</p>
+        <p>We will only use the information you provide to make your listing here.  We may also use your e-mail address to contact you about your listing.</p>
+        <p>In the future, we may charge to list a company here.</p>
+      </section>
+
+      <section id=questions>
+        <h2>Questions and Answers</h2>
+
+        <h3 id=special>What’s so special about these NDA terms?</h3>
+        <p>Nothing.</p>
+        <p>The {{name}} differs from other NDAs in that you only have to read it once.  Every copy of The {{name}} comes with a certificate from the side proposing the NDA, guaranteeing that the terms are exactly the same as those published on this site.</p>
+
+        <h3 id=kind>What kind of NDA is this?</h3>
+        <p>These terms are typical of the kinds of terms companies sign before discussing sales, partnerships, and other relatively routine business transactions.</p>
+        <p>These terms are <em>not</em> the kind of terms companies sign with other companies before mergers-and-acquisitions due diligence or other infrequent, specialized deals.</p>
+
+        <h3 id=improve>Will these terms improve over time?</h3>
+        <p>Yes.  New versions will appear on this site.</p>
+        <p>However, once a version appears on this site, <em>that version will always read exactly the same</em>.  Old versions will remain available.</p>
+        <p>If you would like an e-mail every time a new version comes out, subscribe <a href="https://waypointnda.com/versions.xml">via RSS</a>.</p>
+
+        <h3 id=lawyers>Did lawyers write and review this?</h3>
+        <p>Yes.  But <a href=https://notlegaladvice.law>they are not your lawyers, or responsible to you for legal advice</a>.</p>
+        <p>You should have your lawyer review and approve the latest version.  They can tell you whether and when The {{name}} is right for you.</p>
+        <p>
+          If your lawyer has comments, feel free to have them e-mail <a href=mailto:comments@waypointnda.com>comments@waypointnda.com</a>.
+          We’ve incorporated good feedback before, and we’ll gladly do it again.
+        </p>
+
+        <h3 id=abroad>Does this NDA work outside the USA?</h3>
+        <p>These terms were written for common-law jurisdictions, and require the party proposing the NDA to pick the state, country, or other jurisdiction for governing law.</p>
+        <p>United States, Canada, and UK lawyers have reviewed and approved the form. We’re actively seeking similar reads from other common-law legal practitioners:</p>
+        <table class=jurisdictions id=jurisdictions>
+          <tr><th>Hong Kong</th><td><a href="mailto:kyle@waypointnda.com?subject=Waypoint%20for%20Hong%20Kong">Get in touch!</a></td></tr>
+          <tr><th>India</th><td>Pending</td></tr>
+          <tr><th>Israel</th><td>Pending</td></tr>
+          <tr><th>Nauru</th><td>Pending</td></tr>
+          <tr><th>New Zealand</th><td><a href="mailto:kyle@waypointnda.com?subject=Waypoint%20for%20New%20Zealand">Get in touch!</a></td></tr>
+          <tr><th>Singapore</th><td>Pending</td></tr>
+        </table>
+        <p>
+          If you’re a lawyer from a non-US common-law jurisdiction,
+          or a client with access to advice from one, download
+          <a href=files/waypoint-nda-2.0.0.pdf>the latest version</a>
+          and e-mail feedback to
+          <a href=mailto:kyle@waypointnda.com>kyle@waypointnda.com</a>.
+        </p>
+
+        <h3 id=formats>Is the form available in other formats? </h3>
+        <table>
+          <thead>
+            <tr>
+              <td colspan=2></td>
+              <th>Letter Paper</th>
+              <th>A4 Paper</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th rowspan=4>Long Form</th>
+              <td>Microsoft Word</td>
+              <td><a class=button href=files/{{latest}}.docx>Download</a></td>
+              <td><a class=button href=files/{{latest}}-a4.docx>Download</a></td>
+            </tr>
+            <tr>
+              <td>Adobe Acrobat</td>
+              <td><a class=button href=files/{{latest}}.pdf>Download</a></td>
+              <td><a class=button href=files/{{latest}}-a4.pdf>Download</a></td>
+            </tr>
+            <tr>
+              <td>OpenDocument</td>
+              <td><a class=button href=files/{{latest}}.odt>Download</a></td>
+              <td><a class=button href=files/{{latest}}-a4.odt>Download</a></td>
+            </tr>
+            <tr>
+              <td>Rich Text</td>
+              <td><a class=button href=files/{{latest}}.rtf>Download</a></td>
+              <td><a class=button href=files/{{latest}}-a4.rtf>Download</a></td>
+            </tr>
+          </tbody>
+          <tbody>
+            <tr>
+              <th rowspan=4>Short Form</th>
+              <td>Microsoft Word</td>
+              <td><a class=button href=files/{{latest}}-springboard.docx>Download</a></td>
+              <td><a class=button href=files/{{latest}}-springboard-a4.docx>Download</a></td>
+            </tr>
+            <tr>
+              <td>Adobe Acrobat</td>
+              <td><a class=button href=files/{{latest}}-springboard.pdf>Download</a></td>
+              <td><a class=button href=files/{{latest}}-springboard-a4.pdf>Download</a></td>
+            </tr>
+            <tr>
+              <td>OpenDocument</td>
+              <td><a class=button href=files/{{latest}}-springboard.odt>Download</a></td>
+              <td><a class=button href=files/{{latest}}-springboard-a4.odt>Download</a></td>
+            </tr>
+            <tr>
+              <td>Rich Text</td>
+              <td><a class=button href=files/{{latest}}-springboard.rtf>Download</a></td>
+              <td><a class=button href=files/{{latest}}-springboard-a4.rtf>Download</a></td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section id=license>
+        <h2>License</h2>
+        <p>Each contributor to The {{name}} grants everyone permission to do everything with The {{name}} that would otherwise infringe their copyright in it, under these rules:</p>
+        <p><strong class=conspicuous>As far as the law allows, The {{name}} comes as is, without any warranty at all.</strong></p>
+        <p><strong class=conspicuous>No one involved in writing, reviewing, or improving The {{name}} will be liable to you for any damages related to this license or use of The {{name}}, for any kind of legal claim.</strong></p>
+        <p>If you make changes to the {{name}}, other than filling in blanks, remove all mention of “{{trademark}}” and {{domain}}.</p>
+      </section>
+    </main>
+
+    {{>footer.html}}
+  </body>
+</html>

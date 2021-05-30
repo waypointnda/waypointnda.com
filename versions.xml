@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Waypoint NDA Versions Feed</title>
+    <description>new versions of the Waypoint NDA</description>
+    <link>https://waypointnda.com</link>
+    <atom:link href="https://waypointnda.com/versions.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Waypoint NDA 1.0.0</title>
+      <pubDate>Tue, 23 Apr 2019 11:24:00 -0700</pubDate>
+      <link>https://waypointnda.com/1.0.0</link>
+      <guid isPermaLink="true">https://waypointnda.com/1.0.0</guid>
+    </item>
+    <item>
+      <title>Waypoint NDA 2.0.0</title>
+      <pubDate>Fri, 6 Sep 2019 10:39:00 -0700</pubDate>
+      <link>https://waypointnda.com/2.0.0</link>
+      <guid isPermaLink="true">https://waypointnda.com/2.0.0</guid>
+    </item>
+  </channel>
+</rss>
