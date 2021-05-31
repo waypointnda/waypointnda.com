@@ -3,7 +3,7 @@ json=node_modules/.bin/json
 svgs=$(wildcard *.svg)
 pages=$(wildcard *.mustache.html)
 partials=$(wildcard partials/*)
-targets=$(pages:.mustache.html=.html) versions.xml $(svgs:.svg=.png) latest
+targets=$(pages:.mustache.html=.html) versions.xml $(svgs:.svg=.png) latest social.png
 docxs=$(wildcard files/*.docx)
 formats=docx pdf odt rtf
 conversions=$(foreach format,$(formats),$(docxs:.docx=.$(format)))
@@ -21,6 +21,9 @@ latest: view.json | $(json)
 
 %.png: %.svg
 	convert $< $@
+
+social.png: logo.svg
+	convert -size 500x500 -fill white -gravity center -extent 500x500 -border 25x25 -bordercolor white $< $@
 
 files/%.pdf: files/%.docx
 	soffice --headless --convert-to pdf --outdir files $<
