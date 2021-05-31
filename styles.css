@@ -199,3 +199,15 @@ aside {
   padding: 0.25rem 0.25rem;
   text-align: center;
 }
+
+.badge {
+  max-width: 100%;
+}
+
+.code {
+  border: 1px solid black;
+  font-family: monospace;
+  height: 3rem;
+  padding: 0.5rem;
+  width: 100%;
+}

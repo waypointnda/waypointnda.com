@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="437.16937mm"
+   height="109.72567mm"
+   viewBox="2.2 0 437.16939 109.72567"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="badge.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4494"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="784.56002"
+     inkscape:cy="276.8113"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="881"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     viewbox-x="2.2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4485"
+       originx="-50.211975"
+       originy="-129.4866" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-50.211966,-57.787749)">
+    <g
+       id="g896"
+       transform="translate(10,-11.739313)">
+      <rect
+         transform="rotate(90)"
+         style="fill:#feffff;fill-opacity:1;stroke:#000000;stroke-width:7.12357807;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect875"
+         width="77.876419"
+         height="77.876419"
+         x="86.205635"
+         y="-163.56892" />
+      <g
+         transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,163.45532,293.05959)"
+         id="g4819">
+        <g
+           transform="rotate(135,91.281225,146.1875)"
+           id="g4831">
+          <path
+             sodipodi:nodetypes="cccccccc"
+             inkscape:connector-curvature="0"
+             id="rect4779"
+             d="M 163.49998,127.95833 H 84.666659 V 118.625 l -15.874997,14.47916 15.874997,14.47917 V 138.25 h 78.833321 z"
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.01080036;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <use
+             height="100%"
+             width="100%"
+             transform="matrix(-1,0,0,1,182.56245,26.16667)"
+             id="use4784"
+             xlink:href="#rect4779"
+             y="0"
+             x="0" />
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="217.62732"
+       y="93.386185"
+       id="text881"><tspan
+         sodipodi:role="line"
+         id="tspan879"
+         x="217.62732"
+         y="93.386185"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.86666489px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';stroke-width:0.26458332">Waypoint NDA</tspan></text>
+    <text
+       id="text904"
+       y="126.55288"
+       x="223.35434"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan902"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.26458332"
+         y="126.55288"
+         x="223.35434"
+         sodipodi:role="line">proudly accepted here</tspan></text>
+    <text
+       id="text904-6"
+       y="154.30121"
+       x="224.31415"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.8166666px;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.26458332"
+         y="154.30121"
+         x="224.31415"
+         id="tspan898-4"
+         sodipodi:role="line">https://waypointnda.com</tspan><tspan
+         id="tspan900-6"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:Georgia;-inkscape-font-specification:'Georgia Italic';stroke-width:0.26458332"
+         y="168.81792"
+         x="224.31415"
+         sodipodi:role="line" /><tspan
+         id="tspan902-8"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:Georgia;-inkscape-font-specification:'Georgia Italic';stroke-width:0.26458332"
+         y="182.04707"
+         x="224.31415"
+         sodipodi:role="line" /></text>
+  </g>
+</svg>

@@ -1,8 +1,9 @@
 mustache=node_modules/.bin/mustache
 json=node_modules/.bin/json
+svgs=$(wildcard *.svg)
 pages=$(wildcard *.mustache.html)
 partials=$(wildcard partials/*)
-targets=$(pages:.mustache.html=.html) versions.xml logo.png latest
+targets=$(pages:.mustache.html=.html) versions.xml $(svgs:.svg=.png) latest
 docxs=$(wildcard files/*.docx)
 formats=docx pdf odt rtf
 conversions=$(foreach format,$(formats),$(docxs:.docx=.$(format)))
