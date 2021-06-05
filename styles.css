@@ -5,10 +5,25 @@ html {
   text-align: left;
 }
 
-header[role=banner], main[role=main], footer[role=contentinfo] {
+.otherNDA, header[role=banner], main[role=main], footer[role=contentinfo] {
   margin: 0 auto;
   max-width: 30rem;
   padding: 0 1rem;
+}
+
+.otherNDA {
+  background-color: #d9edf7;
+  border: 1px solid transparent;
+  border-color: #bce8f1;
+  border-radius: 1ex;
+  color: #31708f;
+  font-size: 85%;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.otherNDA a[href] {
+  color: #337ab7;
 }
 
 footer[role=contentinfo] {
