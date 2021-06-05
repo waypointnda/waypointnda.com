@@ -5,13 +5,13 @@ html {
   text-align: left;
 }
 
-body > header, body > main, body > footer {
+header[role=banner], main[role=main], footer[role=contentinfo] {
   margin: 0 auto;
   max-width: 30rem;
   padding: 0 1rem;
 }
 
-body > footer {
+footer[role=contentinfo] {
   border-top: 1px dashed black;
   font-size: 85%;
   margin-top: 3.5rem;
@@ -24,7 +24,7 @@ body > footer {
   max-width: 10rem;
 }
 
-body > header {
+header[role=banner] {
   margin-bottom: 1.5rem;
   margin-top: 2rem;
   text-align: center;
