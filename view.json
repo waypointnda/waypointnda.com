@@ -2,7 +2,7 @@
   "name": "Waypoint NDA",
   "catchphrase": "the standard business nondisclosure agreement",
   "domain": "waypointnda.com",
-  "latest": "2.0.0",
+  "latest": "3.0.0",
   "trademark": "Waypoint",
   "email": "feedback@waypointnda.com",
   "repo": "waypointnda/waypointnda.com",
@@ -15,6 +15,10 @@
     {
       "number": "2.0.0",
       "date": "Fri, 6 Sep 2019 10:39:00 -0700"
+    },
+    {
+      "number": "3.0.0",
+      "date": "Fri, 18 Jun 2021 15:18:00 -0700"
     }
   ],
   "minimize": "diffs"
