@@ -1,4 +1,5 @@
 2.0.0.html
+*.png
 files/*.odt
 files/*.pdf
 files/*.rtf
