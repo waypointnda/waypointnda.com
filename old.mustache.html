@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang=en>
+  <head>
+    <meta charset=UTF-8>
+
+    <title>Old Versions / {{name}}</title>
+
+    {{>styles.html}}
+
+    <link rel=alternate href=versions.xml type=application/rss+xml>
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{name}}">
+    <meta name="twitter:description" content="{{catchphrase}}">
+    <meta name="twitter:image" content="https://{{domain}}/social.png">
+    <meta name="twitter:creator" content="@{{twitter}}">
+
+    <!-- OpenGraph -->
+    <meta property="og:description" content="{{catchphrase}}">
+    <meta property="og:image" content="https://{{domain}}/social.png">
+    <meta property="og:site_name" content="{{name}}">
+    <meta property="og:title" content="{{name}}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://{{domain}}/">
+  </head>
+
+  <body>
+    {{>header.html}}
+
+    <main role=main>
+      <h2>Old Versions</h2>
+      <p>The latest version of the {{name}} is {{latest}}, available from <a href=/>the homepage</a>.  You can download older versions here:</p>
+
+      <h3 id=2.0.0>Version 2.0.0</h3>
+      <table>
+        <thead><tr><td colspan=2></td><th>Letter Paper</th><th>A4 Paper</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th rowspan=4>Long Form</th>
+            <td>Microsoft Word</td>
+            <td><a class=button download="{{name}} 2.0.0 Long Form (Letter).docx" href=files/2.0.0.docx>Download</a></td>
+            <td><a class=button download="{{name}} 2.0.0 Long Form (A4).docx" href=files/2.0.0-a4.docx>Download</a></td>
+          </tr>
+          <tr>
+            <td>Adobe Acrobat</td>
+            <td><a class=button download="{{name}} 2.0.0 Long Form (Letter).pdf" href=files/2.0.0.pdf>Download</a></td>
+            <td><a class=button download="{{name}} 2.0.0 Long Form (A4).pdf" href=files/2.0.0-a4.pdf>Download</a></td>
+          </tr>
+          <tr>
+            <td>OpenDocument</td>
+            <td><a class=button download="{{name}} 2.0.0 Long Form (Letter).odt" href=files/2.0.0.odt>Download</a></td>
+            <td><a class=button download="{{name}} 2.0.0 Long Form (A4).odt" href=files/2.0.0-a4.odt>Download</a></td>
+          </tr>
+          <tr>
+            <td>Rich Text</td>
+            <td><a class=button download="{{name}} 2.0.0 Long Form (Letter).rtf" href=files/2.0.0.rtf>Download</a></td>
+            <td><a class=button download="{{name}} 2.0.0 Long Form (A4).rtf" href=files/2.0.0-a4.rtf>Download</a></td>
+          </tr>
+        </tbody>
+        <tbody>
+          <tr>
+            <th rowspan=4>Short Form</th>
+            <td>Microsoft Word</td>
+            <td><a class=button download="{{name}} 2.0.0 (Letter).docx" href=files/2.0.0-short.docx>Download</a></td>
+            <td><a class=button download="{{name}} 2.0.0 (A4).docx" href=files/2.0.0-short-a4.docx>Download</a></td>
+          </tr>
+          <tr>
+            <td>Adobe Acrobat</td>
+            <td><a class=button download="{{name}} 2.0.0 (Letter).pdf" href=files/2.0.0-short.pdf>Download</a></td>
+            <td><a class=button download="{{name}} 2.0.0 (A4).pdf" href=files/2.0.0-short-a4.pdf>Download</a></td>
+          </tr>
+          <tr>
+            <td>OpenDocument</td>
+            <td><a class=button download="{{name}} 2.0.0 (Letter).odt" href=files/2.0.0-short.odt>Download</a></td>
+            <td><a class=button download="{{name}} 2.0.0 (A4).odt" href=files/2.0.0-short-a4.odt>Download</a></td>
+          </tr>
+          <tr>
+            <td>Rich Text</td>
+            <td><a class=button download="{{name}} 2.0.0 (Letter).rtf" href=files/2.0.0-short.rtf>Download</a></td>
+            <td><a class=button download="{{name}} 2.0.0 (A4).rtf" href=files/2.0.0-short-a4.rtf>Download</a></td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h3 id=1.0.0>Version 1.0.0</h3>
+      <a class=button download="{{name}} 1.0.0.pdf" href="files/1.0.0.pdf">PDF</a>
+      <a class=button download="{{name}} 1.0.0.docx" href="files/1.0.0.docx">Word</a>
+      <a class=button download="{{name}} 1.0.0.rtf" href="files/1.0.0.rtf">Rich Text</a>
+      <a class=button download="{{name}} 1.0.0.odt" href="files/1.0.0.odt">OpenDocument</a>
+    </main>
+
+    {{>footer.html}}
+  </body>
+</html>
