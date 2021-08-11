@@ -164,6 +164,10 @@ th {
   text-align: center;
 }
 
+.downloads > p {
+  text-align: left;
+}
+
 a.button[href] {
   background-color: #28a745;
   border-color: #28a745;
@@ -225,4 +229,29 @@ aside {
   height: 3rem;
   padding: 0.5rem;
   width: 100%;
+}
+
+#emails {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin: 1rem 0;
+}
+
+.email {
+  align-items: stretch;
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+  display: block;
+  flex: 1;
+  flex-wrap: nowrap;
+  font-size: 80%;
+  margin: 0 0.5rem;
+  padding: 0 1rem;
+}
+
+.email .subject {
+  border-bottom: 1px solid #777;
+  padding-bottom: 1rem;
 }

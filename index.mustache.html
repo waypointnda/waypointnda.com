@@ -33,19 +33,40 @@
     {{>header.html}}
 
     <main role=main>
+      <p>
+        Stop waiting on lawyers to review nondisclosure agreements, or signing terms blind when you know you shouldn’t.
+        Review the {{name}} once, use many times, and spread the word.
+        Help end waste on the same old two-way NDA!
+      </p>
+      <div id=emails>
+        <div id=offer class=email>
+          <p><strong>To:</strong> mary@alpha.example.com</p>
+          <p class=subject><strong>Subject:</strong> NDA for JV Talks</p>
+          <p>SomeCo offers to enter into an NDA with OtherCo on the terms of <a href={{latest}}>The Waypoint NDA {{latest}}</a>. Purpose: explore a potential joint venture. Governing Law: California.</p>
+          <p>Please let me know in the next 24 if OtherCo accepts.</p>
+          <p>James Swift<br>Manager, Beta LLC</p>
+        </div>
+        <div id=acceptance class=email>
+          <p><strong>To:</strong> james@beta.example.com</p>
+          <p class=subject><strong>Subject:</strong> Re: NDA for JV Talks</p>
+          <p>SomeCo accepts. We’ll keep these e-mails for our records.</p>
+          <p>Mary Fleet<br>Chief Operating Officer<br>Alpha, Inc.</p>
+        </div>
+      </div>
+
+      <p>
+        The latest version of the {{name}} is <span class=version>{{latest}}</span>.
+        You can <a href={{latest}}>read the legal terms online</a> and
+        use them <a href=#license>for free</a>.
+      </p>
+
       <div class=downloads>
+        <h2>Downloads</h2>
+        <p>You can download the {{name}} for use with your preferred e-signature service, or even to print and sign:</p>
         <a class=button download="{{name}} {{latest}} (Letter).pdf" href=files/{{latest}}-short-letter.pdf>Download for Letter Paper</a>
         <a class=button download="{{name}} {{latest}} (A4).pdf" href=files/{{latest}}-short-a4.pdf>Download for A4 Paper</a>
       </div>
       <p>
-        Stop waiting on lawyers to review nondisclosure agreements, or signing terms blind when you know you shouldn’t.
-        Review the {{name}} once, sign it many times, and spread the word.
-        Help end waste on the same old two-way NDA!
-      </p>
-      <p>
-        The latest version is <span class=version>{{latest}}</span>.
-        You can <a href={{latest}}>read the legal terms online</a> and
-        download complete contract packets <a href=#license>for free</a>.
         There’s also a long-form version that attaches a full copy of the legal terms, instead of incorporating them by reference:
       </p>
       <div class=downloads>
