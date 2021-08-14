@@ -20,7 +20,7 @@ latest: view.json | $(json)
 	$(json) latest < $< > $@
 
 %.png: %.svg
-	inkscape $< -e $@
+	inkscape $< --export-filename $@
 
 social.png: logo.svg
 	convert -size 500x500 -fill white -gravity center -extent 500x500 -border 25x25 -bordercolor white $< $@
