@@ -1,14 +1,19 @@
 html {
   font-family: "Georgia", "Times New Roman", serif;
-  font-size: 125%;
   line-height: 1.4;
   text-align: left;
 }
 
-.otherNDA, header[role=banner], main[role=main], footer[role=contentinfo] {
-  margin: 0 auto;
-  max-width: 30rem;
-  padding: 0 1rem;
+@media screen {
+  html {
+    font-size: 125%;
+  }
+
+  .otherNDA, header[role=banner], main[role=main], footer[role=contentinfo] {
+    margin: 0 auto;
+    max-width: 30rem;
+    padding: 0 1rem;
+  }
 }
 
 .otherNDA {
