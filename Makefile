@@ -10,10 +10,10 @@ conversions=$(foreach format,$(formats),$(docxs:.docx=.$(format)))
 
 all: $(targets) $(conversions)
 
-%.html: view.json %.mustache.html tidy.config $(partials) | $(mustache) site
+%.html: view.json %.mustache.html tidy.config $(partials) | $(mustache)
 	$(mustache) view.json $*.mustache.html $(foreach partial,$(partials),-p $(partial)) | tidy -config tidy.config > $@
 
-versions.xml: view.json versions.mustache.xml | $(mustache) site
+versions.xml: view.json versions.mustache.xml | $(mustache)
 	$(mustache) view.json versions.mustache.xml | xmllint --format - > $@
 
 latest: view.json | $(json)
@@ -33,9 +33,6 @@ files/%.odt: files/%.docx
 
 files/%.rtf: files/%.docx
 	soffice --headless --convert-to rtf --outdir files $<
-
-site:
-	mkdir -p site
 
 $(mustache):
 	npm ci
