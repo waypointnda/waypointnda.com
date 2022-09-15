@@ -87,6 +87,12 @@ h3 {
   margin-top: 2rem;
 }
 
+h4 {
+  font-style: italic;
+  font-weight: normal;
+  margin-top: 2rem;
+}
+
 a {
   text-decoration: none;
 }
